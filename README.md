@@ -5,12 +5,12 @@ Este projeto tem como objetivo facilitar a criação e o gerenciamento de viagen
 
 ## Tecnologias Utilizadas
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&labelColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-0D1117?style=for-the-badge&logo=Swagger&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;</br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;</br>
+![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&labelColor=0D1117)&nbsp;</br>
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;</br>
+![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;</br>
+![Swagger](https://img.shields.io/badge/-Swagger-0D1117?style=for-the-badge&logo=Swagger&labelColor=0D1117)&nbsp;</br>
 ![zod](https://img.shields.io/badge/-Zod-0D1117?style=for-the-badge&logo=Zod&labelColor=0D1117)&nbsp;
 
 ## Funcionalidades
